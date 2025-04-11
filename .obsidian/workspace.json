@@ -11,10 +11,14 @@
             "id": "ce9be4cc0ce3f75a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Case Studies/Week 9 – Problem Solving with Big Data.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Week 9 – Problem Solving with Big Data"
             }
           }
         ]
@@ -153,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -171,13 +175,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fe6988408742474",
+  "active": "ce9be4cc0ce3f75a",
   "lastOpenFiles": [
-    "obsidian-vault",
     "Case Studies/WEEK 1 – Foundations of Big Data.md",
+    "obsidian-vault",
     "Case Studies/Week 6 Data Exploration – Summary for Final Exam.md",
     "Case Studies/Untitled.md",
     "Case Studies/Week 14 of “Problem Solving with Big Data\".md",
@@ -230,7 +235,6 @@
     "Data Analysis/Preliminary Data Preparation",
     "Data Analysis/Clustering/K-means.canvas",
     "Big Data Integration and Storage/Apache Spark/Spark and Hadoop.canvas",
-    "Big Data Integration and Storage/Midterm/Images",
-    "Big Data Integration and Storage/Structured API"
+    "Big Data Integration and Storage/Midterm/Images"
   ]
 }
