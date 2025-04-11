@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"178c06b69e1e0264","type":"group","x":-1700,"y":-1188,"width":3400,"height":2376,"label":"EDA"},
+		{"id":"c2e411185ad03bac","type":"file","file":"Data Analysis/EDA/Descriptive Analysis and EDA.md","x":-440,"y":-1128,"width":979,"height":2296},
+		{"id":"3a5eb6c3880c9767","type":"file","file":"Data Analysis/Preliminary Data Preparation/Data Structures for Data Analysis.md","x":-1680,"y":-1128,"width":1120,"height":1947},
+		{"id":"ff7e2423f97115fe","type":"text","text":"## 📏  Range – _How wide is the spread?_\n\nThe **Range** is the **simplest** measure of dispersion. It tells you the distance between the **largest** and **smallest** values in a dataset.\n\n### 🧮  Formula:\n\n```text\nRange = Maximum Value - Minimum Value\n```\n\n### 📌 Example:\n\nData: [5, 10, 15, 20, 25]  \nRange = 25 − 5 = **20**\n\n### 📌 Pros:\n\n- Very easy to calculate\n    \n- Gives a quick sense of the spread\n### ⚠️ Cons:\n\n- Only considers **extreme values**\n    \n- **Sensitive to outliers** — doesn't reflect how values behave in the middle\n\n## 📊 Coefficient of Variation (CV) – _How consistent is the data relative to its mean?_\n\nThe **Coefficient of Variation** shows the **relative variability** of the data by comparing the **standard deviation** to the **mean**. It tells you how **\"spread out\"** the data is **relative to its average**.\n\n### 🧮 Formula:\n\n```text\nCV = (Standard Deviation / Mean) × 100\n```\n\nExpressed as a **percentage**.\n\n### 📌 Example:\n\n- Dataset A: mean = 100, std. deviation = 5  \n    CV = (5 / 100) × 100 = **5%** → very consistent\n    \n- Dataset B: mean = 20, std. deviation = 10  \n    CV = (10 / 20) × 100 = **50%** → much more spread out\n### 📌 Use Cases:\n\n- Comparing datasets with **different scales**\n    \n- Measuring **risk vs. return** in finance\n    \n- Evaluating **stability** in experimental results\n### ⚠️ When _not_ to use CV:\n\n- When the **mean is near zero** → CV becomes unstable or meaningless\n    \n- On **interval-scaled** data where zero is arbitrary (like temperature in °C)\n### 🧠 Summary Table\n\n|Measure|Description|Best For|\n|---|---|---|\n|**Range**|Max - Min|Quick overview of spread|\n|**Coefficient of Variation**|Relative variability (% of mean)|Comparing spread across datasets with different units or scales|\n","x":660,"y":462,"width":1000,"height":686},
+		{"id":"88f6adadf4a3781d","type":"file","file":"Data Analysis/EDA/Visualizations in R.md","x":660,"y":-1128,"width":500,"height":1540},
+		{"id":"4e542a1eb89b10d7","type":"file","file":"Data Analysis/EDA/Visualizations in Python.md","x":1200,"y":-1128,"width":460,"height":1540}
+	],
+	"edges":[
+		{"id":"0f72f8c48e722578","fromNode":"c2e411185ad03bac","fromSide":"right","toNode":"ff7e2423f97115fe","toSide":"left"},
+		{"id":"c93b54e389a5af46","fromNode":"c2e411185ad03bac","fromSide":"right","toNode":"88f6adadf4a3781d","toSide":"left"}
+	]
+}

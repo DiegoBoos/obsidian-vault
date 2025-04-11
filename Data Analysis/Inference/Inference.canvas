@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1c5e05fa0107ee8f","type":"group","x":-1280,"y":-1427,"width":2560,"height":2180,"label":"Inference"},
+		{"id":"d4b109511a5aa1a7","type":"file","file":"Data Analysis/Inference/Inference Demo in Python.md","x":700,"y":-1367,"width":560,"height":1128},
+		{"id":"be4ae68aa8e708ca","type":"file","file":"Data Analysis/Inference/ANOVA Demo in Python.md","x":700,"y":-187,"width":560,"height":920},
+		{"id":"cf739bcb047f7281","type":"file","file":"Data Analysis/Inference/Hypothesis Testing and Comparisons of Data.md","x":-1260,"y":-1356,"width":1200,"height":1117},
+		{"id":"3968ca4812c7dfbd","type":"file","file":"Data Analysis/Inference/Inference Demo in R.md","x":60,"y":-1367,"width":560,"height":1128},
+		{"id":"c56d9581f79dec9f","type":"file","file":"Data Analysis/Inference/ANOVA Demo in R.md","x":60,"y":-187,"width":560,"height":920},
+		{"id":"f2de412027aa7e87","type":"file","file":"Data Analysis/Inference/Ho and Significance.md","x":-1260,"y":-187,"width":1200,"height":920},
+		{"id":"51dbe8573c239c23","type":"file","file":"Data Analysis/Inference/Images/Data Analysis, Algorithms and Mathematics - (Simplified) Flow-Chart for Statistical Test of Comparisons.jpg","x":-1260,"y":808,"width":1095,"height":620}
+	],
+	"edges":[]
+}

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"333af49864832045","type":"file","file":"Big Data Integration and Storage/Apache Spark/Apache Spark.md","x":-1520,"y":-2105,"width":840,"height":1470},
+		{"id":"da684c50758c21f8","type":"file","file":"Big Data Integration and Storage/Hadoop.md","x":-2080,"y":-1682,"width":400,"height":625},
+		{"id":"0661c0d66263f68b","type":"file","file":"Big Data Integration and Storage/Apache Spark/Interview Questions Spark.md","x":-1360,"y":-524,"width":400,"height":898},
+		{"id":"c21d6011cc89ed22","type":"file","file":"Big Data Integration and Storage/RDD's.md","x":-320,"y":-635,"width":400,"height":560},
+		{"id":"34f754d0ab7cba7e","type":"file","file":"Big Data Integration and Storage/Apache Spark/Iteration in Big Data.md","x":-560,"y":-1770,"width":880,"height":800}
+	],
+	"edges":[
+		{"id":"527a4843823f8c5f","fromNode":"da684c50758c21f8","fromSide":"right","toNode":"333af49864832045","toSide":"left"},
+		{"id":"0fb49be37f7c782d","fromNode":"333af49864832045","fromSide":"right","toNode":"34f754d0ab7cba7e","toSide":"left"}
+	]
+}

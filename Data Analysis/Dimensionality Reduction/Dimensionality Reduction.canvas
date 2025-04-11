@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0b3b5a2616186a5d","type":"group","x":-780,"y":-700,"width":1560,"height":1400,"label":"Dimensionality Reduction"},
+		{"id":"2c4902f405636f94","type":"file","file":"Data Analysis/Dimensionality Reduction/Dimensionality Reduction.md","x":-760,"y":-640,"width":780,"height":1320},
+		{"id":"6369a9fe2b79d402","type":"file","file":"Data Analysis/Dimensionality Reduction/Dimensionality Demo in Python.md","x":100,"y":100,"width":660,"height":580},
+		{"id":"06273dfb39aa1ae8","type":"file","file":"Data Analysis/Dimensionality Reduction/Dimensionality Demo.md","x":100,"y":-640,"width":660,"height":680}
+	],
+	"edges":[]
+}

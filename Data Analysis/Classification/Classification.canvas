@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"f9a1b0ab711137eb","type":"group","x":-1513,"y":-3260,"width":3027,"height":6520,"label":"Classification"},
+		{"id":"fb20bf5ab5fe51b1","type":"file","file":"Data Analysis/Classification/Confusion Matrices.md","x":-1493,"y":-2160,"width":607,"height":1840},
+		{"id":"52d80aa539c85a2f","type":"file","file":"Data Analysis/Classification/Probability.md","x":-1493,"y":-3240,"width":607,"height":1040},
+		{"id":"dd3228cc5c3da246","type":"file","file":"Data Analysis/Classification/Classification vs. Predictions.md","x":-1486,"y":-280,"width":600,"height":960},
+		{"id":"d23b73621bafc5b8","type":"file","file":"Data Analysis/Classification/Logistic Regression.md","x":-816,"y":-3240,"width":955,"height":5400},
+		{"id":"c21683206aefe1ad","type":"file","file":"Data Analysis/Classification/KNN (K-Nearest Neighbour).md","x":200,"y":-3240,"width":740,"height":1480},
+		{"id":"6df884602bf6fbc9","type":"file","file":"Data Analysis/Classification/NN.md","x":200,"y":-1680,"width":740,"height":1600},
+		{"id":"9cb631d0fd855173","type":"file","file":"Data Analysis/Classification/Decision Trees.md","x":1000,"y":-1680,"width":480,"height":800},
+		{"id":"5eb5cd28d7918f57","type":"file","file":"Data Analysis/Classification/Bayes Rule.md","x":1000,"y":-3240,"width":480,"height":400}
+	],
+	"edges":[]
+}
