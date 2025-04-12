@@ -11,17 +11,14 @@
             "id": "ce9be4cc0ce3f75a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Data Analysis/Outliers/Outliers.canvas",
-                "viewState": {
-                  "x": 412.0454831324075,
-                  "y": -224.62070089456873,
-                  "zoom": -0.2917322332769731
-                }
+                "file": "Data Analysis/Dimensionality Reduction/Dimensionality Demo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Outliers"
+              "icon": "lucide-file",
+              "title": "Dimensionality Demo"
             }
           }
         ]
@@ -184,6 +181,7 @@
   },
   "active": "ce9be4cc0ce3f75a",
   "lastOpenFiles": [
+    "Data Analysis/Outliers/Outliers.canvas",
     "Big Data Integration and Storage/Apache Spark/Spark and Hadoop.canvas",
     "Big Data Integration and Storage/Apache Spark/Apache Spark.md",
     "Big Data Integration and Storage/Scala Class.md",
@@ -191,7 +189,6 @@
     "Big Data Integration and Storage/Hadoop.md",
     "Big Data Integration and Storage/Apache Spark/Interview Questions Spark.md",
     "Big Data Integration and Storage/Apache Spark/Iteration in Big Data.md",
-    "Data Analysis/Outliers/Outliers.canvas",
     "Data Analysis/Inference/Inference.canvas",
     "Data Analysis/Preliminary Data Preparation/Data Preparation.canvas",
     "Data Analysis/Preliminary Data Preparation/Data preparation in R.md",
