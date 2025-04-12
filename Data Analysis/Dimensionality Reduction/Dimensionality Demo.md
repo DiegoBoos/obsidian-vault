@@ -1,29 +1,4 @@
 ```R{r}
-##################################################
-### PROG8435                                    ##
-### Data Reduction Demonstration                ##
-### Demonstration                               ##  
-##################################################
-#                                               ##
-##################################################
-
-# Written by David Marsh
-# ID: 123456789
-#
-
-##############################
-## Read in Data             ##
-##############################
-
-options(digits=5)
-Master <- read.csv("PROG8435_Dimension_Data_Demo.csv", header = TRUE, sep = ",")
-head(Master)
-
-start <- Sys.time()
-cor(Master,method="spearman")
-end <- Sys.time()
-Tot1 <- end-start
-Tot1
 
 ##############################
 ## Reduce Number of Vars    ##
