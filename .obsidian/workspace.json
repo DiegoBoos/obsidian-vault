@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Data Analysis/Outliers/Outliers.canvas",
+                "file": "Big Data Integration and Storage/Apache Spark/Spark and Hadoop.canvas",
                 "viewState": {
-                  "x": -34.79171641791045,
-                  "y": 420.32004477611935,
-                  "zoom": -1.3184787327160532
+                  "x": -1152.2331501903159,
+                  "y": -1002.8605483282435,
+                  "zoom": -1.232548793764319
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Outliers"
+              "title": "Spark and Hadoop"
             }
           }
         ]
@@ -184,8 +184,12 @@
   },
   "active": "ce9be4cc0ce3f75a",
   "lastOpenFiles": [
-    "Data Analysis/Inference/Inference.canvas",
+    "Big Data Integration and Storage/Apache Spark/Apache Spark.md",
+    "Big Data Integration and Storage/Scala Class.md",
+    "Big Data Integration and Storage/RDD's.md",
+    "Big Data Integration and Storage/Hadoop.md",
     "Data Analysis/Outliers/Outliers.canvas",
+    "Data Analysis/Inference/Inference.canvas",
     "Data Analysis/Preliminary Data Preparation/Data Preparation.canvas",
     "Data Analysis/Preliminary Data Preparation/Data preparation in R.md",
     "Data Analysis/EDA/EDA.canvas",
@@ -212,9 +216,6 @@
     "Data Analysis/Classification/Quiz 4.md",
     "Data Analysis/Classification/Decision Trees.md",
     "Data Analysis/Classification/Logistic Regression.md",
-    "Data Analysis/Classification/Condensed Algorithm Selection.md",
-    "Data Analysis/Classification/Bayes Rule.md",
-    "Data Analysis/Classification/Confusion Matrices.md",
     "Data Analysis/How to tackle any Data Analysis Project.canvas",
     "Data Analysis/Regression/Regression.canvas",
     "Data Analysis/Dimensionality Reduction/Dimensionality Reduction.canvas",
