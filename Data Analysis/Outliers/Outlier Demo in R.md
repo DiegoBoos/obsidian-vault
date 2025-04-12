@@ -31,11 +31,9 @@ for (i in 1:ncol(df)) {
 par(mfrow=c(1,1))
 
 ```
+## Delete the row
 
-## Code to Deal with outliers
-### delete the row
-
-```{r}
+```R{r}
 plot(density(df$x6), pch=6)
 rug(df$x6,col=2)
 nr <- which(df$x6 == 0)  #Find row number with x6 = 0
@@ -52,8 +50,7 @@ plot(density(df$x2), pch=6)
 rug(df$x2,col=2)
 
 ```
-
-#### Adjust the value
+### Adjust the value
 Should only be done is very rare and specific circumstances
 
 ```R{r}
