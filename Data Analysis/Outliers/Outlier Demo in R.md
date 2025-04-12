@@ -1,31 +1,21 @@
-## 📥 Load Dataset
 
 ```R{r}
-df <- read.csv(file.choose(), sep = ",", header = TRUE)
-head(df)
-```
-## 📦 Box Plots using 1.5*_IQR and adjusted IQR_
+# Find Outliers
 
-```R{r}
-numeric_cols <- sapply(df, is.numeric)
-
-# Default 1.5*IQR Boxplots
 par(mfrow=c(2,2))
 
-for (col in names(df)[numeric_cols]) {
-  boxplot(df[[col]], horizontal = TRUE, pch = 20, main = col)
+for (i in 1:ncol(df)) {
+  if (is.numeric(df[,i])) {
+      boxplot(df[,i], 
+              main=names(df)[i],
+              ylab=names(df)[i],
+              horizontal = TRUE)
+  }
 }
 
 par(mfrow=c(1,1))
 
-# Adjusted IQR range = 2
-par(mfrow=c(1,2))
-
-for (col in head(names(df)[numeric_cols], 2)) {
-  boxplot(df[[col]], horizontal = TRUE, pch = 20, range = 2, main = paste(col, "(range=2)"))
-}
-
-par(mfrow=c(1,1))
+```
 ```
 ## 🌊 Density Plots
 
