@@ -34,7 +34,11 @@ par(mfrow=c(1,1))
 ## Scatter Plot for Hidden Outliers
 
 ```R{r}
-plot(df$Area, df$MajorAxisLength,pch = 20, main = "Scatter Plot for Outliers")
+plot(df$Area, df$ConvexArea, 
+     pch = 20, 
+     main = "Scatter Plot for Hidden Outliers in Area",
+     xlab = "Area",
+     ylab = "Convex Area")
 ```
 ## Factor Variables Bar Plot
 
