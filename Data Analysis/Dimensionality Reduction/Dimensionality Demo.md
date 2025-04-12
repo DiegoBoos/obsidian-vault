@@ -1,5 +1,4 @@
 ```R{r}
-
 ##############################
 ## Reduce Number of Vars    ##
 ##############################
@@ -27,16 +26,3 @@ round(cor(Master,method="spearman"),3)
 #X05 and X06 seem highly correlated
 #Don't need to keep both, I'll drop the second one.
 
-Master <- Master[-c(5)]
-head(Master,3)
-Master <- Master[-c(1)]
-head(Master)
-
-start <- Sys.time()
-cor(Master,method="spearman")
-end <- Sys.time()
-Tot2 <- end-start
-Tot2
-
-Tot1
-Tot2
