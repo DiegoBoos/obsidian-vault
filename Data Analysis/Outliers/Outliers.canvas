@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"c18323ea4f3ed85f","type":"group","x":-780,"y":-835,"width":1560,"height":1671,"label":"Outliers"},
-		{"id":"8a560b2ef8b4813e","type":"file","file":"Data Analysis/Outliers/Outliers in Data Analysis.md","x":-760,"y":-745,"width":760,"height":1560},
+		{"id":"8a560b2ef8b4813e","type":"file","file":"Data Analysis/Outliers/Outliers in Data Analysis.md","x":-760,"y":-745,"width":760,"height":1505},
 		{"id":"eb39125a10e35898","type":"file","file":"Data Analysis/Outliers/Outlier Demo in R.md","x":80,"y":-745,"width":640,"height":780},
 		{"id":"f6ebe848e18b7aca","type":"file","file":"Data Analysis/Outliers/Outlier Demo in Python.md","x":80,"y":90,"width":640,"height":725}
 	],

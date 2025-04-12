@@ -29,18 +29,15 @@ An **outlier** is a data point that deviates significantly from other observatio
 | **Statistical**      | Assumes a data distribution and flags observations that don’t fit.          |
 | **Proximity-based**  | Measures how isolated a point is from its neighbors.                        |
 | **Clustering-based** | Points that don’t belong to any meaningful cluster are considered outliers. |
-### 🔍 Visual Techniques
+### Visual Techniques
 
 - **Boxplots**: Show IQR and outliers (commonly using 1.5×IQR rule).
 - **Kernel Density Plots**: Highlight subtle distribution anomalies.
-
 - **Scatter Plots**: Useful in bivariate comparisons.
-## 🛠 What Can You Do with Outliers?
+## What Can You Do with Outliers?
 
 | Action      | When to Use                                                   |
 | ----------- | ------------------------------------------------------------- |
 | **Include** | Preferred if outlier is valid and meaningful.                 |
 | **Delete**  | Use only if the value is clearly incorrect or corrupt.        |
 | **Adjust**  | Apply when needed for modeling (e.g., time series smoothing). |
-
-> ✅ **Always document your decision and rationale!**
