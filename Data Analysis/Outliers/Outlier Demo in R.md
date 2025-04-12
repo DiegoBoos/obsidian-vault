@@ -34,10 +34,9 @@ par(mfrow=c(1,1))
 ## Scatter Plot for Hidden Outliers
 
 ```R{r}
-plot(df[[names(df)[numeric_cols][1]]], df[[names(df)[numeric_cols][2]]],
-     pch = 20, main = "Scatter Plot for Outliers")
+plot(df$Area, df$MajorAxisLength,pch = 20, main = "Scatter Plot for Outliers")
 ```
-## 🧩 Factor Variables Bar Plot
+## Factor Variables Bar Plot
 
 ```R{r}
 factor_cols <- sapply(df, is.factor)
