@@ -11,14 +11,17 @@
             "id": "ce9be4cc0ce3f75a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Case Studies/Week 9 – Problem Solving with Big Data.md",
-                "mode": "source",
-                "source": false
+                "file": "Data Analysis/EDA/EDA.canvas",
+                "viewState": {
+                  "x": 1062.3945337289485,
+                  "y": -675.6691592188419,
+                  "zoom": -0.2242170743707831
+                }
               },
-              "icon": "lucide-file",
-              "title": "Week 9 – Problem Solving with Big Data"
+              "icon": "lucide-layout-dashboard",
+              "title": "EDA"
             }
           }
         ]
@@ -181,6 +184,8 @@
   },
   "active": "ce9be4cc0ce3f75a",
   "lastOpenFiles": [
+    "Data Analysis/Final Exam Review.md",
+    "Case Studies/Week 9 – Problem Solving with Big Data.md",
     "Case Studies/WEEK 1 – Foundations of Big Data.md",
     "obsidian-vault",
     "Case Studies/Week 6 Data Exploration – Summary for Final Exam.md",
@@ -190,7 +195,6 @@
     "Case Studies/Week 12 Solving Problems with Big Data.md",
     "Case Studies/Week 11 – Solving Problems with Big Data.md",
     "Case Studies/Week 10 – Problem Solving with Big Data.md",
-    "Case Studies/Week 9 – Problem Solving with Big Data.md",
     "Case Studies/Week 7 Problem Solving with Big Data.md",
     "Case Studies/Week 4 Solving Problems with Big Data.md",
     "Case Studies/Week 3 – Problem Solving with Big Data.md",
@@ -198,7 +202,6 @@
     "Data Analysis/Preliminary Data Preparation/Data Preparation.canvas",
     "Data Analysis/Preliminary Data Preparation/Data Analysis Project Template.md",
     "Data Analysis/Classification/Classification.canvas",
-    "Data Analysis/Final Exam Review.md",
     "Data Analysis/Classification/KNN (K-Nearest Neighbour).md",
     "Data Analysis/Classification/NN.md",
     "Data Analysis/Classification/Quiz 4.md",
