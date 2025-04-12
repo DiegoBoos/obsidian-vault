@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Data Analysis/EDA/EDA.canvas",
+                "file": "Data Analysis/Outliers/Outliers.canvas",
                 "viewState": {
-                  "x": 1089.5538618606881,
-                  "y": -116.18699970506616,
-                  "zoom": -0.2242170743707831
+                  "x": 417.9093614378578,
+                  "y": -300.8147403828352,
+                  "zoom": -0.05507865534326404
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "EDA"
+              "title": "Outliers"
             }
           }
         ]
@@ -184,6 +184,8 @@
   },
   "active": "ce9be4cc0ce3f75a",
   "lastOpenFiles": [
+    "Data Analysis/Inference/Quiz 2.md",
+    "Data Analysis/EDA/EDA.canvas",
     "Data Analysis/Final Exam Review.md",
     "Case Studies/Week 9 – Problem Solving with Big Data.md",
     "Case Studies/WEEK 1 – Foundations of Big Data.md",
@@ -218,7 +220,6 @@
     "Data Analysis/Outliers/Outliers.canvas",
     "Data Analysis/Dimensionality Reduction/Dimensionality Reduction.canvas",
     "Data Analysis/Dimensionality Reduction",
-    "Data Analysis/EDA/EDA.canvas",
     "Data Analysis/Classification/Images/Pasted image 20250409065436.png",
     "Data Analysis/Classification/Images/Pasted image 20250320101222.png",
     "Data Analysis/Classification/Images/Pasted image 20250320093040.png",
