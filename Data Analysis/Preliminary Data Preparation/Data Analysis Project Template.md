@@ -1,8 +1,6 @@
 ## 1. Define the Problem / Question / Action
 
-Clearly state the problem you are trying to solve.
-
-> ❗ _Avoid vague or overly broad questions._
+Clearly state the problem you are trying to solve., avoid vague or overly broad questions.
 
 **Checklist:**
 -  Is the question clearly defined?
@@ -11,8 +9,8 @@ Clearly state the problem you are trying to solve.
 -  Have domain experts been consulted?
 
 **Examples:**
-- ❌ Vague: _“Why are we losing customers?”_
-- ✅ Better: _“What customer segments have the highest churn rate over the past 12 months?”_
+- Vague: _“Why are we losing customers?”_
+- Better: _“What customer segments have the highest churn rate over the past 12 months?”_
 ## 2. Understand the Business Context
 Identify the business area and its needs:
 

@@ -28,7 +28,7 @@
 - Storage and retrieval
 ## 3. Clean and Prepare Data
 
-### 🧹 Steps to Clean the Data:
+### Steps to Clean the Data:
 - Import and inspect the raw data.
 - Monitor data flows for anomalies.
 - Standardize formats (e.g., dates, phone numbers).
