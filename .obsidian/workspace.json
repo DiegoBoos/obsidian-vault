@@ -15,9 +15,9 @@
               "state": {
                 "file": "Big Data Integration and Storage/Apache Spark/Spark and Hadoop.canvas",
                 "viewState": {
-                  "x": -1152.2331501903159,
-                  "y": -1002.8605483282435,
-                  "zoom": -1.232548793764319
+                  "x": -880,
+                  "y": -865.5,
+                  "zoom": -1.8875252707415873
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -188,6 +188,9 @@
     "Big Data Integration and Storage/Scala Class.md",
     "Big Data Integration and Storage/RDD's.md",
     "Big Data Integration and Storage/Hadoop.md",
+    "Big Data Integration and Storage/Apache Spark/Interview Questions Spark.md",
+    "Big Data Integration and Storage/Apache Spark/Iteration in Big Data.md",
+    "Big Data Integration and Storage/Apache Spark/Spark and Hadoop.canvas",
     "Data Analysis/Outliers/Outliers.canvas",
     "Data Analysis/Inference/Inference.canvas",
     "Data Analysis/Preliminary Data Preparation/Data Preparation.canvas",
@@ -214,8 +217,6 @@
     "Data Analysis/Classification/KNN (K-Nearest Neighbour).md",
     "Data Analysis/Classification/NN.md",
     "Data Analysis/Classification/Quiz 4.md",
-    "Data Analysis/Classification/Decision Trees.md",
-    "Data Analysis/Classification/Logistic Regression.md",
     "Data Analysis/How to tackle any Data Analysis Project.canvas",
     "Data Analysis/Regression/Regression.canvas",
     "Data Analysis/Dimensionality Reduction/Dimensionality Reduction.canvas",
@@ -238,7 +239,6 @@
     "Data Analysis/EDA",
     "Data Analysis/Preliminary Data Preparation",
     "Data Analysis/Clustering/K-means.canvas",
-    "Big Data Integration and Storage/Apache Spark/Spark and Hadoop.canvas",
     "Big Data Integration and Storage/Midterm/Images"
   ]
 }
