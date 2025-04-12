@@ -16,4 +16,4 @@ Has two core components:
 Commands
 
 hadoop fs -mkdir -p /BigData/hive
-hadoop fs -copyFromLocal localFi
+hadoop fs -copyFromLocal localFile /BigData/hive/.
