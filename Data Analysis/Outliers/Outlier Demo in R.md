@@ -1,3 +1,18 @@
+```{r}
+# Summaries of the data with density plots
+
+par(mfrow=c(2,2))   
+
+for (i in 1:ncol(df)) {
+  if (is.numeric(df[,i])) {
+    plot(density(df[,i]), main=names(df)[i])
+    rug(df[,i],col=2)
+  }
+  }
+
+par(mfrow=c(1,1))
+
+```
 
 ```R{r}
 # Find Outliers
@@ -16,6 +31,7 @@ for (i in 1:ncol(df)) {
 par(mfrow=c(1,1))
 
 ```
+
 ```
 ## 🌊 Density Plots
 
