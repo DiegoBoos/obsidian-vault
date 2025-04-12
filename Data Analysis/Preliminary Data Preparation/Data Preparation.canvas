@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"c587d4950cd80867","type":"group","x":-1000,"y":-870,"width":2000,"height":1740,"label":"Data Preparation"},
+		{"id":"c587d4950cd80867","type":"group","x":-1000,"y":-870,"width":1920,"height":1740,"label":"Data Preparation"},
 		{"id":"d152a942318374d7","type":"file","file":"Data Analysis/Preliminary Data Preparation/Data Analysis Project Template.md","x":-980,"y":-795,"width":660,"height":1165},
 		{"id":"002ff6c8ae819726","type":"file","file":"Data Analysis/Preliminary Data Preparation/Preliminary Data Preparation.md","x":-260,"y":-795,"width":560,"height":1625},
 		{"id":"cad7e3a38eefba29","type":"file","file":"Data Analysis/Preliminary Data Preparation/Data preparation in R.md","x":360,"y":-795,"width":500,"height":795},

@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Data Analysis/Preliminary Data Preparation/Data Preparation.canvas",
+                "file": "Data Analysis/Outliers/Outliers.canvas",
                 "viewState": {
-                  "x": 401.0623934781408,
-                  "y": -18.968517442799538,
-                  "zoom": -0.622266692295116
+                  "x": -175.12933957414066,
+                  "y": 89.53645984329358,
+                  "zoom": -0.8370983058323557
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Data Preparation"
+              "title": "Outliers"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "ce9be4cc0ce3f75a",
   "lastOpenFiles": [
+    "Data Analysis/Preliminary Data Preparation/Data Preparation.canvas",
     "Data Analysis/Preliminary Data Preparation/Data preparation in R.md",
     "Data Analysis/EDA/EDA.canvas",
     "Data Analysis/Outliers/Outliers.canvas",
@@ -203,7 +204,6 @@
     "Case Studies/Week 4 Solving Problems with Big Data.md",
     "Case Studies/Week 3 – Problem Solving with Big Data.md",
     "Case Studies/Week 2 Problem Solving with Big Data.md",
-    "Data Analysis/Preliminary Data Preparation/Data Preparation.canvas",
     "Data Analysis/Preliminary Data Preparation/Data Analysis Project Template.md",
     "Data Analysis/Classification/Classification.canvas",
     "Data Analysis/Classification/KNN (K-Nearest Neighbour).md",
@@ -214,7 +214,6 @@
     "Data Analysis/Classification/Condensed Algorithm Selection.md",
     "Data Analysis/Classification/Bayes Rule.md",
     "Data Analysis/Classification/Confusion Matrices.md",
-    "Data Analysis/Classification/Probability.md",
     "Data Analysis/How to tackle any Data Analysis Project.canvas",
     "Data Analysis/Regression/Regression.canvas",
     "Data Analysis/Inference/Inference.canvas",
