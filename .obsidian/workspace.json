@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Dimensionality Reduction/Dimensionality Demo.md",
+                "file": "Big Data Integration and Storage/Hadoop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dimensionality Demo"
+              "title": "Hadoop"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "ce9be4cc0ce3f75a",
   "lastOpenFiles": [
+    "Data Analysis/Dimensionality Reduction/Dimensionality Demo.md",
     "Data Analysis/Outliers/Outliers.canvas",
     "Big Data Integration and Storage/Apache Spark/Spark and Hadoop.canvas",
     "Big Data Integration and Storage/Apache Spark/Apache Spark.md",

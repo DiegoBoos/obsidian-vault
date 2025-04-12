@@ -12,3 +12,8 @@ Has two core components:
 	- Memory
 - Hadoop uses YARN
 	- MapReduce jobs negotiate with YARN to get resources for execution
+
+Commands
+
+hadoop fs -mkdir -p /BigData/hive
+hadoop fs -copyFromLocal localFi
