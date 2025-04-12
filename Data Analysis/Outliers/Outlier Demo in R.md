@@ -39,10 +39,5 @@ plot(df$Area, df$MajorAxisLength,pch = 20, main = "Scatter Plot for Outliers")
 ## Factor Variables Bar Plot
 
 ```R{r}
-factor_cols <- sapply(df, is.factor)
-
-for (col in names(df)[factor_cols]) {
-  barplot(table(df[[col]]), cex.names = 0.75, main = col)
-}
-
+barplot(table(df$Class),cex.names=0.55)
 ```
