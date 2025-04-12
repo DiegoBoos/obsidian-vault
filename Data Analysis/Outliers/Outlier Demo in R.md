@@ -1,4 +1,4 @@
-```{r}
+```R{r}
 # Summaries of the data with density plots
 
 par(mfrow=c(2,2))   
@@ -31,21 +31,7 @@ for (i in 1:ncol(df)) {
 par(mfrow=c(1,1))
 
 ```
-
-```
-## 🌊 Density Plots
-
-```R{r}
-par(mfrow=c(1,2))
-
-for (col in c(head(names(df)[numeric_cols], 2))) {
-  plot(density(df[[col]]), main = paste("Density of", col))
-  rug(df[[col]], col = 2)
-}
-
-par(mfrow=c(1,1))
-```
-## 🔎 Scatter Plot for Hidden Outliers
+## Scatter Plot for Hidden Outliers
 
 ```R{r}
 plot(df[[names(df)[numeric_cols][1]]], df[[names(df)[numeric_cols][2]]],
