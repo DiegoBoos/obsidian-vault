@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Big Data Integration and Storage/Apache Spark/Spark and Hadoop.canvas",
+                "file": "Data Analysis/Outliers/Outliers.canvas",
                 "viewState": {
-                  "x": -880,
-                  "y": -865.5,
-                  "zoom": -1.8875252707415873
+                  "x": 412.0454831324075,
+                  "y": -224.62070089456873,
+                  "zoom": -0.2917322332769731
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Spark and Hadoop"
+              "title": "Outliers"
             }
           }
         ]
@@ -184,13 +184,13 @@
   },
   "active": "ce9be4cc0ce3f75a",
   "lastOpenFiles": [
+    "Big Data Integration and Storage/Apache Spark/Spark and Hadoop.canvas",
     "Big Data Integration and Storage/Apache Spark/Apache Spark.md",
     "Big Data Integration and Storage/Scala Class.md",
     "Big Data Integration and Storage/RDD's.md",
     "Big Data Integration and Storage/Hadoop.md",
     "Big Data Integration and Storage/Apache Spark/Interview Questions Spark.md",
     "Big Data Integration and Storage/Apache Spark/Iteration in Big Data.md",
-    "Big Data Integration and Storage/Apache Spark/Spark and Hadoop.canvas",
     "Data Analysis/Outliers/Outliers.canvas",
     "Data Analysis/Inference/Inference.canvas",
     "Data Analysis/Preliminary Data Preparation/Data Preparation.canvas",
@@ -216,7 +216,6 @@
     "Data Analysis/Classification/Classification.canvas",
     "Data Analysis/Classification/KNN (K-Nearest Neighbour).md",
     "Data Analysis/Classification/NN.md",
-    "Data Analysis/Classification/Quiz 4.md",
     "Data Analysis/How to tackle any Data Analysis Project.canvas",
     "Data Analysis/Regression/Regression.canvas",
     "Data Analysis/Dimensionality Reduction/Dimensionality Reduction.canvas",
