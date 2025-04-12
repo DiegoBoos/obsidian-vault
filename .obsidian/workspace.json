@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Data Analysis/Outliers/Outliers.canvas",
+                "file": "Data Analysis/Inference/Inference.canvas",
                 "viewState": {
-                  "x": 409.5590136177856,
-                  "y": -276.04785717979263,
-                  "zoom": 0.020570004571468063
+                  "x": -460.77781248248823,
+                  "y": 833.8169257011065,
+                  "zoom": -1.00153857680829
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Outliers"
+              "title": "Inference"
             }
           }
         ]
@@ -184,10 +184,10 @@
   },
   "active": "ce9be4cc0ce3f75a",
   "lastOpenFiles": [
+    "Data Analysis/Outliers/Outliers.canvas",
     "Data Analysis/Preliminary Data Preparation/Data Preparation.canvas",
     "Data Analysis/Preliminary Data Preparation/Data preparation in R.md",
     "Data Analysis/EDA/EDA.canvas",
-    "Data Analysis/Outliers/Outliers.canvas",
     "Data Analysis/Inference/Quiz 2.md",
     "Data Analysis/Final Exam Review.md",
     "Case Studies/Week 9 – Problem Solving with Big Data.md",
