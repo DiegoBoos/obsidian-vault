@@ -31,6 +31,39 @@ for (i in 1:ncol(df)) {
 par(mfrow=c(1,1))
 
 ```
+
+## Code to Deal with outliers
+### delete the row
+
+```{r}
+plot(density(df$x6), pch=6)
+rug(df$x6,col=2)
+nr <- which(df$x6 == 0)  #Find row number with x6 = 0
+df <- df[-c(nr),]
+plot(density(df$x6), pch=6)
+rug(df$x6,col=2)
+
+plot(density(df$x2), pch=6)
+rug(df$x2,col=2)
+head(df[rev(order(df$x2)),],3)   #See the top three for fun
+nr <- which(df$x2 == max(df$x2))  #Row number for max value 
+df <- df[-c(nr),]
+plot(density(df$x2), pch=6)
+rug(df$x2,col=2)
+
+```
+
+#### Adjust the value
+Should only be done is very rare and specific circumstances
+
+```R{r}
+plot(density(df$x3), pch=6)
+rug(df$x3,col=2)
+df$x3 <- ifelse(df$x3 == min(df$x3),mean(df$x3),df$x3)  #Replaces min value with the mean
+plot(density(df$x3), pch=6)
+rug(df$x3,col=2)
+
+```
 ## Scatter Plot for Hidden Outliers
 
 ```R{r}
