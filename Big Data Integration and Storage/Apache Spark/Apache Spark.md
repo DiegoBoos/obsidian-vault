@@ -50,7 +50,7 @@ val hiveSession = SparkSession.builder()
 .enableHiveSupport()
 .getOrCreate()
 
-val stocksDF = hiveSession.sql
+val stocksDF = hiveSession.sql("SELECT * FROM ")
   
 val schema = new StructType()  
 .add("Date", "date")  
