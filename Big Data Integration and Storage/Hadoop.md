@@ -17,4 +17,4 @@ Has two core components:
 **Create a directory:** hadoop fs -mkdir -p /BigData/hive
 **Delete a file:** hadoop fs -copyFromLocal localFile /BigData/hive/.
 **Delete a directory:** hadoop fs -rm -r /BigData/hive/retail_store_inventory
-**Change perm** sudo hadoop fs -chmod -R 755 /BigData/hive/retail_store_inventory.csv
+**Change permissions:** sudo hadoop fs -chmod -R 755 /BigData/hive/retail_store_inventory.csv
