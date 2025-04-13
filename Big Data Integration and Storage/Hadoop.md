@@ -13,8 +13,8 @@ Has two core components:
 - Hadoop uses YARN
 	- MapReduce jobs negotiate with YARN to get resources for execution
 
-Commands
+**Commands**
 
-hadoop fs -mkdir -p /BigData/hive
-Delete a file: hadoop fs -copyFromLocal localFile /BigData/hive/.
-hadoop fs -rm -r /BigData/hive/retail_store_inventory
+**Create a directory:** hadoop fs -mkdir -p /BigData/hive
+**Delete a file:** hadoop fs -copyFromLocal localFile /BigData/hive/.
+**Delete a directory:** hadoop fs -rm -r /BigData/hive/retail_store_inventory
