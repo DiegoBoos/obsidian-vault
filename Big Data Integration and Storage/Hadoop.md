@@ -16,4 +16,5 @@ Has two core components:
 Commands
 
 hadoop fs -mkdir -p /BigData/hive
-hadoop fs -copyFromLocal localFile /BigData/hive/.
+Delete a file: hadoop fs -copyFromLocal localFile /BigData/hive/.
+hadoop fs -rm -r /BigData/hive/retail_store_inventory
