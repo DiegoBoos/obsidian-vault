@@ -44,11 +44,13 @@ Spark is an execution engine that can do fast computations on big datasets
 ```scala
 import org.apache.spark.sql.SparkSession
 
-val spark = SparkSession.builder()
+val hiveSession = SparkSession.builder()
 .appName("Hive to Spark Example")
 .config("spark.sql.warehouse.dir", "/user/hive/warehouse")
 .enableHiveSupport()
 .getOrCreate()
+
+val 
   
 val schema = new StructType()  
 .add("Date", "date")  
