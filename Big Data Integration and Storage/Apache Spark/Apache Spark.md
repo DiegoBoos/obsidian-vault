@@ -50,7 +50,7 @@ val hiveSession = SparkSession.builder()
 .enableHiveSupport()
 .getOrCreate()
 
-val DF = hiveSession.sql("SELECT * FROM stocks_db.stocks")
+val salesDF = hiveSession.sql("SELECT * FROM sales.retail_sales")
 stocksDF.show(5)
 ```
 
