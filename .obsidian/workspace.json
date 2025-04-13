@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Data Integration and Storage/Apache Spark/Apache Spark.md",
+                "file": "Data Analysis/Dimensionality Reduction/Dimensionality Demo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apache Spark"
+              "title": "Dimensionality Demo"
             }
           }
         ]
@@ -181,11 +181,13 @@
   },
   "active": "ce9be4cc0ce3f75a",
   "lastOpenFiles": [
-    "Big Data Integration and Storage/Hadoop.md",
+    "Data Analysis/Dimensionality Reduction/Dimensionality Demo in Python.md",
+    "Data Analysis/Dimensionality Reduction/Dimensionality Reduction.canvas",
     "Data Analysis/Dimensionality Reduction/Dimensionality Demo.md",
+    "Big Data Integration and Storage/Apache Spark/Apache Spark.md",
+    "Big Data Integration and Storage/Hadoop.md",
     "Data Analysis/Outliers/Outliers.canvas",
     "Big Data Integration and Storage/Apache Spark/Spark and Hadoop.canvas",
-    "Big Data Integration and Storage/Apache Spark/Apache Spark.md",
     "Big Data Integration and Storage/Scala Class.md",
     "Big Data Integration and Storage/RDD's.md",
     "Big Data Integration and Storage/Apache Spark/Interview Questions Spark.md",
@@ -212,11 +214,8 @@
     "Case Studies/Week 2 Problem Solving with Big Data.md",
     "Data Analysis/Preliminary Data Preparation/Data Analysis Project Template.md",
     "Data Analysis/Classification/Classification.canvas",
-    "Data Analysis/Classification/KNN (K-Nearest Neighbour).md",
-    "Data Analysis/Classification/NN.md",
     "Data Analysis/How to tackle any Data Analysis Project.canvas",
     "Data Analysis/Regression/Regression.canvas",
-    "Data Analysis/Dimensionality Reduction/Dimensionality Reduction.canvas",
     "Data Analysis/Dimensionality Reduction",
     "Data Analysis/Classification/Images/Pasted image 20250409065436.png",
     "Data Analysis/Classification/Images/Pasted image 20250320101222.png",
