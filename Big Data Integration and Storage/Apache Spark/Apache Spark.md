@@ -40,3 +40,11 @@ Spark is an execution engine that can do fast computations on big datasets
 - But we can request that Spark use YARN as the resource manager
 
 **Starting spark:** spark-shell --master yarn
+
+```scala
+val spark = SparkSession.builder()
+  .appName("Hive to Spark Example")
+  .config("spark.sql.warehouse.dir", "/user/hive/warehouse")
+  .enableHiveSupport()
+  .getOrCreate()
+```
