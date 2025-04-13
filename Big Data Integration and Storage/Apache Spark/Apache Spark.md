@@ -39,4 +39,4 @@ Spark is an execution engine that can do fast computations on big datasets
 	- So we don’t need YARN
 - But we can request that Spark use YARN as the resource manager
 
-**Starting spark:** spark
+**Starting spark:** spark-shell --master yarn
