@@ -38,3 +38,4 @@ Spark is an execution engine that can do fast computations on big datasets
 - Spark however has its own in-built resource manager
 	- So we don’t need YARN
 - But we can request that Spark use YARN as the resource manager
+
